@@ -1,6 +1,7 @@
 //
 //  Path.swift
 //  FileKit
+//      edits by drew curry
 //
 //  The MIT License (MIT)
 //
